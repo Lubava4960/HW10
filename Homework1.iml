@@ -1,5 +1,5 @@
 public class voild main {
 String []args) {
-Sistem.out.Print ("ПРивет мир!");
+Sistem.out.Print ("Привет мир!");
 
 
